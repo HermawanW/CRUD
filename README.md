@@ -1,2 +1,2 @@
 # CRUD
-(Creat Read Update Delete) dengan mysql dan php
+(Create Read Update Delete) dengan mysql dan php
